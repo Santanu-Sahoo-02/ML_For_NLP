@@ -1,1 +1,1 @@
-# SPAMClassifier
+# SPAM_HAM_Classifier
